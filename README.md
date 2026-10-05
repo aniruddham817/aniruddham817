@@ -1,62 +1,45 @@
 # 👋 Hi, I'm Aniruddha Mule
 
-### 🚀 DevOps Engineer | ☁️ Cloud | 🔐 Cybersecurity
+### 💻 Developer | ☁️ DevOps | 🔐 Cybersecurity
 
-I'm a technology enthusiast passionate about **DevOps, Cloud, Cybersecurity, and Software Development**. I love building practical projects, automating workflows, and exploring modern technologies.
+I’m passionate about building real-world applications, exploring cloud technologies, automating workflows, and learning cybersecurity.
 
-🌐 **Portfolio:** [aniiruddha.online](https://aniiruddha.online/)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python • Java • JavaScript • C/C++
-
-**DevOps & Cloud:** AWS • Docker • Linux • Git • GitHub • CI/CD
-
-**Backend:** Flask • Node.js • Express
-
-**Databases:** PostgreSQL • MySQL • MongoDB • SQLite
-
-**Tools:** Bash • n8n • Postman • VS Code
+🌐 **Portfolio:** [aniiruddha.online](https://aniiruddha.online)  
+💼 **LinkedIn:** [Aniruddha Mule](https://www.linkedin.com/in/aniruddha9)  
+🐙 **GitHub:** [@aniruddham817](https://github.com/aniruddham817)
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech I Work With
 
-### 🧾 QuickBill
-Offline-first retail billing and inventory management system.
-
-**Next.js • TypeScript • Prisma • SQLite • Tailwind CSS**
-
-### ⛽ Smart CNG Pump
-CNG booking and queue management platform with QR verification and admin/operator workflows.
-
-**Node.js • JavaScript • REST API • Docker**
+`Python` `JavaScript` `Java` `Node.js` `Flask`  
+`AWS` `Docker` `Linux` `Git` `GitHub`  
+`PostgreSQL` `MySQL` `MongoDB` `SQLite`
 
 ---
 
-## 🎯 Currently Learning
+### 🚀 Featured Projects
 
-☁️ AWS & Cloud Infrastructure  
-🐳 Docker & CI/CD  
+**🧾 QuickBill**  
+Offline-first retail billing & inventory management system.
+
+**⛽ Smart CNG Pump**  
+CNG booking, queue management, QR verification & station management platform.
+
+---
+
+### 🎯 Currently Exploring
+
+☁️ Cloud & AWS  
+🐳 DevOps & Docker  
 🐧 Linux & Networking  
-🔐 Cybersecurity & Cloud Security
+🔐 Cybersecurity  
+⚙️ Automation & CI/CD
 
 ---
 
-## 📊 GitHub
+### 💡
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aniruddham817&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+> *Build something useful. Keep learning. Keep improving.* 🚀
 
----
-
-## 🌐 Connect
-
-[🌐 Portfolio](https://aniiruddha.online/) •
-[💻 GitHub](https://github.com/aniruddham817) •
-[🔗 LinkedIn](https://www.linkedin.com/)
-
-> **Build • Learn • Improve • Repeat. 🚀**
+⭐ Thanks for visiting my profile!
