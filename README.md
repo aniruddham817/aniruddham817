@@ -1,47 +1,75 @@
-# 👋 Hey, I'm Aniruddha Mule
+# 👋 Hi, I'm Aniruddha Mule
 
-### 🚀 DevOps Engineer | ☁️ Cloud & Cybersecurity Enthusiast | 💻 Developer
+### 🚀 DevOps Engineer | ☁️ Cloud | 🔐 Cybersecurity | 💻 Developer
 
-I'm a technology enthusiast focused on **DevOps, Cloud Infrastructure, Cybersecurity, and Software Development**. I enjoy building practical projects, automating workflows, deploying applications, and exploring modern infrastructure.
+I’m a technology enthusiast passionate about **Cloud Infrastructure, DevOps, Cybersecurity, and Software Development**.
 
-I believe in **learning by building** — turning ideas into working systems and continuously improving my technical skills.
-
-🌐 **Portfolio:** [aniiruddha.online](https://aniiruddha.online/)  
-💼 **LinkedIn:** [Aniruddha Mule](https://www.linkedin.com/in/aniruddha9)  
-🐙 **GitHub:** [@aniruddham817](https://github.com/aniruddham817)
+I enjoy building practical projects, automating workflows, deploying applications, working with cloud infrastructure, and continuously learning modern technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Development
-
+### 💻 Development
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,html,css,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,html,css,c,cpp" />
 </p>
 
-### ☁️ DevOps & Cloud
-
+### ☁️ Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,nginx,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,nginx,bash" />
 </p>
 
 ### 🗄️ Databases & Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,vscode,postman" />
 </p>
 
 ---
 
-## 🚀 What I Work With
+## ⚙️ What I Work With
+
+| Area | Technologies |
+|------|-------------|
+| ☁️ Cloud | AWS, EC2, RDS |
+| 🚀 DevOps | Docker, Docker Compose, CI/CD |
+| 🐧 Systems | Linux, Bash, Networking |
+| 🔐 Security | Web Security, Networking, Security Tools |
+| 💻 Backend | Python, Flask, Node.js, Express |
+| 🎨 Frontend | HTML, CSS, JavaScript |
+| 🗄️ Databases | PostgreSQL, MySQL, MongoDB, SQLite |
+| ⚡ Automation | Python, Bash, n8n |
+| 🔧 Version Control | Git, GitHub |
+
+---
+
+## ☁️ Cloud & DevOps
+
+I work on practical projects involving:
+
+- AWS infrastructure & EC2 deployments
+- PostgreSQL & AWS RDS
+- Docker & Docker Compose
+- Linux server administration
+- Application deployment
+- Reverse proxies & networking
+- Environment configuration
+- CI/CD workflows
+- Cloud security fundamentals
+
+---
+
+## 📈 Current Focus
 
 ```text
-Cloud           → AWS
-DevOps          → Docker • Linux • CI/CD • Git
-Cybersecurity   → Networking • Web Security • Security Tools
-Backend         → Python • Flask • Node.js • Express
-Frontend        → HTML • CSS • JavaScript
-Databases       → PostgreSQL • MySQL • MongoDB • SQLite
-Automation      → Python • Bash • n8n
-Version Control → Git • GitHub
+AWS & Cloud Infrastructure
+        ↓
+Linux & Networking
+        ↓
+Docker & Containerization
+        ↓
+CI/CD & Automation
+        ↓
+Infrastructure & Deployment
+        ↓
+Cloud Security
